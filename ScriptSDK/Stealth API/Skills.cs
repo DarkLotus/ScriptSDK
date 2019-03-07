@@ -18,7 +18,7 @@ namespace StealthAPI
         public static readonly Skill AnimalLore = new Skill() { Value = "Animal Lore" };
         public static readonly Skill AnimalTaming = new Skill() { Value = "Animal Taming" };
         public static readonly Skill Archery = new Skill() { Value = "Archery" };
-        public static readonly Skill Armslore = new Skill() { Value = "Armslore" };
+        public static readonly Skill Armslore = new Skill() { Value = "Arms Lore" };
         public static readonly Skill Begging = new Skill() { Value = "Begging" };
         public static readonly Skill Blacksmithy = new Skill() { Value = "Blacksmithy" };
         public static readonly Skill Bowcraft = new Skill() { Value = "Bowcraft" };
